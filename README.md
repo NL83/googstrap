@@ -29,3 +29,7 @@ Googley-Styled DOM
 
 
 
+Googley-Styled - Components (at this stage)
+=========
+goog.ui.menubar [http://closure-library.googlecode.com/git/closure/goog/demos/menubar.html]
+goog.ui.tabbar [http://closure-library.googlecode.com/git/closure/goog/demos/tabbar.html]
