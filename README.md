@@ -10,7 +10,7 @@ MVC Pattern Bootstrap based on the Google Closure Library
 3. Open the index.html for samples
 
 
-features
+Features
 =========
 
 Model-View-Controller (MVC) Concept
