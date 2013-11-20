@@ -1,0 +1,10 @@
+goog.addDependency('../../../googstrap/lib/event.js', ['googstrap.Event'], []);
+goog.addDependency('../../../googstrap/lib/googstrap.js', ['googstrap'], ['googstrap.Widget']);
+goog.addDependency('../../../googstrap/lib/controller.js', ['googstrap.Controller'], ['googstrap.Event', 'googstrap.Logic', 'goog.Disposable', 'goog.dom', 'goog.dom.classes', 'goog.events.EventHandler', 'goog.events.EventTarget', 'goog.ui.Component']);
+goog.addDependency('../../../googstrap/lib/deps.js', [], []);
+goog.addDependency('../../../googstrap/lib/event.js', ['googstrap.CanvasEvent','googstrap.CommandEvent'], ['goog.events', 'goog.events.Event', 'goog.events.EventTarget']);
+goog.addDependency('../../../googstrap/lib/widget.js', ['googstrap.Widget'], ['googstrap.Event','googstrap.Menubar', 'googstrap.Tabbar', 'googstrap.Controller', 'goog.ui.Component']);
+goog.addDependency('../../../googstrap/lib/logic.js', ['googstrap.Logic'], []);
+goog.addDependency('../../../googstrap/lib/logic.js', ['googstrap.Initialisation'], []);
+goog.addDependency('../../../googstrap/lib/menubar.js', ['googstrap.Menubar'], ['googstrap.Logic','goog.array', 'goog.dom', 'goog.dom.DomHelper', 'goog.dom.classes', 'goog.events', 'goog.ui.menuBar','goog.ui.Menu', 'goog.ui.MenuBarRenderer', 'goog.ui.menuBarDecorator', 'goog.ui.menuBar', 'goog.ui.MenuButton' , 'goog.ui.MenuItem', 'goog.ui.Separator', 'goog.ui.decorate']);
+goog.addDependency('../../../googstrap/lib/tabbar.js', ['googstrap.Tabbar'], ['goog.ui.Tab','goog.ui.TabBar','goog.ui.RoundedTabRenderer','googstrap.Logic','goog.array', 'goog.dom', 'goog.dom.DomHelper', 'goog.dom.classes', 'goog.events', 'goog.ui.menuBar','goog.ui.Menu', 'goog.ui.MenuBarRenderer', 'goog.ui.menuBarDecorator', 'goog.ui.menuBar', 'goog.ui.MenuButton' , 'goog.ui.MenuItem', 'goog.ui.Separator', 'goog.ui.decorate']);

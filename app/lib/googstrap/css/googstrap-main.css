@@ -1,0 +1,18 @@
+html{
+
+}
+
+body {
+   padding: 0px;
+   margin: 0px;
+   font: normal 10pt Arial, sans-serif;
+   overflow: hidden;
+   width: 100%;
+
+    height: 100%;
+}
+
+.goog-inline-block {
+    display: inline-block;
+    position: relative;
+}
