@@ -1,4 +1,4 @@
-Google Closure + MVC Bootstrap = googstrap
+Google Closure + MVC Bootstrap
 =========
 
 MVC Pattern Bootstrap based on the Google Closure Library
